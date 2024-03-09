@@ -1,0 +1,12 @@
+.navcontainer{
+    margin: 100px;
+    align-items: last baseline;
+    display: flex;
+    justify-content: space-around;
+}
+
+img{
+    max-width: 100px;
+    min-height: 80px;
+    margin-left: 100px;
+}
